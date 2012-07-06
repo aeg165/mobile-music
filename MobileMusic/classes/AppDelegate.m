@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Tronic 2012. All rights reserved.
 //
 
+//Lance Reichert is a fat smelly turdball milkshake
+
 #import "AppDelegate.h"
 
 #import "MobileMusicUITouchWindow.h"
